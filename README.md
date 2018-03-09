@@ -6,7 +6,7 @@ Calcul de probabilités avec OCaml (Monte Carlo)
 
 <h1>TD de probabilités avec OCaml</h1>
 
-Liste d'exercices de probabilités résolus avec OCaml.
+La liste d'exercices de probabilités résolus avec OCaml se trouve dans <tt>TD_proba_sujet.pdf</tt>.
 
 Les fichiers sont au format .ipynb (Notebook de Jupyter). 
 
