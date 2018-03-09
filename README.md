@@ -1,9 +1,6 @@
 # Probabilite_avec_OCaml
 Calcul de probabilités avec OCaml (Monte Carlo)
 
-# Probabilite_avec_OCaml
-Calcul de probabilités avec OCaml (Monte Carlo)
-
 <h1>TD de probabilités avec OCaml</h1>
 
 La liste d'exercices de probabilités résolus avec OCaml se trouve dans <tt>TD_proba_sujet.pdf</tt>.
